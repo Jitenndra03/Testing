@@ -1,0 +1,1 @@
+print("PSIT is the worst college!!")
